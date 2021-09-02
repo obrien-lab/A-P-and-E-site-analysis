@@ -2,7 +2,7 @@
 Translation elongation rate analysis at amino acid, tRNA, and Codon level by ribosome profiling dataset
 
 Here 3 diffrent analysis script generate to analysis of amino acid, tRNA and codon level.
-To use any scipt first copy the input folder files into concern folder of analysis script and follow the jupyter notebook.
+To use any scipt first copy the Input_file folder files into concern folder of analysis script and follow the jupyter notebook.
 
 # Point of action cover in amino acid level analysis
 1. Cooperativity effect calculated for E and P-site effect on A-site
