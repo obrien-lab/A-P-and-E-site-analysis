@@ -6,7 +6,7 @@ To use any scipt first copy the Input_file folder files into concern folder of a
 
 # Point of action cover in amino acid level analysis
 1. Cooperativity effect calculated for E and P-site effect on A-site
-2. 7 ribo-seq data used for thsis analysis
+2. 7 ribo-seq data used for this analysis
 3. Normalised ribsome density calculated for each gene
 4. Only 75% coverage gene selected for analysis
 5. Statistically significance calculate for each triplet at E-, P- and A-site by permutation test
