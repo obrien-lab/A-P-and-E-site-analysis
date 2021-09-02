@@ -4,7 +4,7 @@ Translation elongation rate analysis at amino acid, tRNA, and Codon level by rib
 Here 3 diffrent analysis script generate to analysis of amino acid, tRNA and codon level.
 To use any scipt first copy the input folder files into concern folder of analysis script and follow the jupyter notebook.
 
-# Point of action cover in amino acid analysis
+# Point of action cover in amino acid level analysis
 1. Cooperativity effect calculated for E and P-site effect on A-site
 2. 7 ribo-seq data used for thsis analysis
 3. Normalised ribsome density calculated for each gene
@@ -35,7 +35,7 @@ To use any scipt first copy the input folder files into concern folder of analys
 
 
 
-# Point of action cover at tRNA analysis
+# Point of action cover at tRNA level analysis
 1. Cooperativity effect calculated for E and P-site effect on A-site
 2. 7 ribo-seq data used for thsis analysis
 3. Normalised ribsome density calculated for each gene
@@ -49,7 +49,7 @@ To use any scipt first copy the input folder files into concern folder of analys
 12. The combined average effect of a molecular factor on translation elongation rate at the A, P and E-site
 
 
-# Point of action cover at codon analysis
+# Point of action cover at codon level analysis
 1. Cooperativity effect calculated for E and P-site effect on A-site
 2. 7 ribo-seq data used for thsis analysis
 3. Normalised ribsome density calculated for each gene
