@@ -1,5 +1,5 @@
 # A-P-and-E-site-analysis
-Translation elongation rate analysis at amino acid, tRNA, and Codon level by ribosome profiling data
+Translation elongation rate analysis at amino acid, tRNA, and Codon level by ribosome profiling dataset
 
 Here 3 diffrent analysis script generate to analysis of amino acid, tRNA and codon level.
 To use any scipt first copy the input folder files into concern folder of analysis script and follow the jupyter notebook.
