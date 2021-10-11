@@ -61,3 +61,35 @@ To use any scipt first copy the Input_file folder files into concern folder of a
 10. The robustness of each triplet defines by the two filter criteria. For each triplet, All seven dataset delta1 directions should be in the same direction. Any four datasets should show the same cooperativity effect.
 11. analysis of calculated data
 12. The combined average effect of a molecular factor on translation elongation rate at the A, P and E-site
+
+
+## Installation
+Start by cloning this repository using git:
+```
+git clone https://github.com/obrien-lab/A-P-and-E-site-analysis
+cd A-P-and-E-site-analysis
+```
+
+Create a Python 3.8 conda environment to manage the required software packages:
+```
+conda create --name py38 python=3.8 -y requirement.txt
+```
+
+Activate the environment:
+```
+source activate py38
+```
+
+Begin installing packages with conda and pip:
+```
+conda install -n <env_name> requirements.txt
+or install manualy
+conda install -y -q 'Package name'
+```
+
+## Run the Jupyter notebooks
+Activate the py38 environment and run Jupyter Notebook.  Within Jupyter Notebook, navigate to one of the dataset folders (A_P_E_site_analysis_at_amino_acid_level, A_P_E_site_analysis_at_tRNA_level, A_P_E_site_analysis_at_codon_level), and open the .ipynb file.
+```
+source activate py38
+jupyter notebook
+```
