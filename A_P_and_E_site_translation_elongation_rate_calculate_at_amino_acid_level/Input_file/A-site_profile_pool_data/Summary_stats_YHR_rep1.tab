@@ -1,0 +1,11 @@
+Number of genes with A-site profiles: 6371
+Number of genes containing introns: 281
+Number of genes containing overlaps: 297
+Number of genes containing multiple aligned reads: 1087
+Number of reads mapped to the yeast transcriptome: 120572911
+No. of genes with greater than 2 reads in each codon: 708
+No. of genes missed out earlier with greater than 1 reads in each codon: 338
+No. of genes missed out earlier with greater than 0 reads in each codon: 154
+No. of genes missed out earlier with greater than 2 reads in each codon but overlapping genes: 1
+No. of genes missed out earlier with greater than 2 reads in each codon but intronic genes: 4
+No. of genes missed out earlier with greater than 2 reads in each codon but contains multiple mapped reads: 5
