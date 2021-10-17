@@ -3,7 +3,7 @@ Translation elongation rate analysis at amino acid, tRNA, and Codon level by rib
 
 Here 3 diffrent analysis script generate to analysis of amino acid, tRNA and codon level.
 Every Jupyter notebook split in 3 steps. 
-1. Read raw reads density file than calculate cooperativity effect and p-value through permutation effects all 7 diffrent dataset separately.
+1. Read raw reads density file than calculate cooperativity effect and p-value through permutation test for all 7 diffrent dataset separately.
 2. Use cooperativity effect and p-value Calculated file to calculate robustness of triplets.
 3. Robust file use for further visualtion of result. 
 
