@@ -2,7 +2,13 @@
 Translation elongation rate analysis at amino acid, tRNA, and Codon level by ribosome profiling dataset
 
 Here 3 diffrent analysis script generate to analysis of amino acid, tRNA and codon level.
-To use any scipt first copy the Input_file folder files into concern folder of analysis script and follow the jupyter notebook.
+Every Jupyter notebook split in 3 steps. 
+1. Read raw reads density file than calculate cooperativity effect and p-value through permutation effects all 7 diffrent dataset separately.
+2. Use cooperativity effect and p-value Calculated file to calculate robustness of triplets.
+3. Robust file use for further visualtion of result. 
+
+## Important Note
+Before using tRNA and Codon level Jupyter notebook. Run the Unzip_file_tRNA_level.py script for tRNA and Unzip_file_codon_level.py for codon level to unzip some files. 
 
 # Point of action cover in amino acid level analysis
 1. Cooperativity effect calculated for E and P-site effect on A-site
